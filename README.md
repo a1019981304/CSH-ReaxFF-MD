@@ -1,7 +1,7 @@
 # CSH-ReaxFF-MD
 
 ## Overview
-This repository hosts the open-source post-processing code for **ReaxFF reactive molecular dynamics (MD) simulations of Calcium Silicate Hydrate (C-S-H, CSH) interfacial systems**, with a core focus on identifying interatomic chemical bonding configurations, quantifying hydrogen bond networks, and analyzing nanoscale interfacial structural properties.
+This repository hosts the open-source post-processing code for **ReaxFF reactive molecular dynamics (MD) simulations of Calcium Silicate Hydrate (C-S-H, SiO2) interfacial systems**, with a core focus on identifying interatomic chemical bonding configurations, quantifying hydrogen bond networks, and analyzing nanoscale interfacial structural properties.
 
 Tailored for cementitious material research, this code enables fully automated processing of raw LAMMPS ReaxFF simulation outputs, systematic classification of atoms and chemical bonds, and high-fidelity statistical analysis of key structural descriptors. Raw intermediate data files from core workflows are also provided for reproducibility and validation.
 
